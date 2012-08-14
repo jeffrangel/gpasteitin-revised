@@ -4,12 +4,9 @@ gpasteitin-revised
 Installation
 -----------
 
-    1. Download the gpasteitin-revised
- package.
-    2. Extract the gpasteitin-revised
- package.
-    3. Open Terminal and cd into the gpasteitin-revised
- folder 
+    1. Download the zip gpasteitin-revised package.
+    2. Extract the gpasteitin-revised package.
+    3. Open Terminal and cd into the gpasteitin-revised folder 
     4. Run this command: sudo ./install.py install
 
 Usage
