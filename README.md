@@ -18,7 +18,7 @@ Run without Installation
 ------------
 
     1. Open Terminal and cd into the gpasteitin-revised
- folder
+
     2. Run this command: ./gpasteitin/gpasteitin.py
     
 Extra
